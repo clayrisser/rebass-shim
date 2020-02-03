@@ -1,0 +1,6 @@
+{
+  "extends": ["jam/typescript/base"],
+  "rules": {
+    "import/no-extraneous-dependencies": "off"
+  }
+}
